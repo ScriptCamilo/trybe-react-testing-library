@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "378fe4f9bd85e9279425700ca589d9dc",
+    "revision": "57f1b759abc9ea213531daff653267b0",
     "url": "/trybe-react-testing-library/index.html"
   },
   {
-    "revision": "5a50eedd3f5ba783361c",
+    "revision": "bd2c1e072b5de6896cc4",
     "url": "/trybe-react-testing-library/static/css/main.88a5c871.chunk.css"
   },
   {
-    "revision": "760c68df0d5e85e1e9f9",
-    "url": "/trybe-react-testing-library/static/js/2.01afe734.chunk.js"
+    "revision": "8779f7fe88944579312b",
+    "url": "/trybe-react-testing-library/static/js/2.585a919e.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/trybe-react-testing-library/static/js/2.01afe734.chunk.js.LICENSE.txt"
+    "url": "/trybe-react-testing-library/static/js/2.585a919e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a50eedd3f5ba783361c",
-    "url": "/trybe-react-testing-library/static/js/main.c30f8de5.chunk.js"
+    "revision": "bd2c1e072b5de6896cc4",
+    "url": "/trybe-react-testing-library/static/js/main.7c6c1ca1.chunk.js"
   },
   {
     "revision": "3a704167b8bb725766d1",
